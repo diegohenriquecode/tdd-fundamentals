@@ -1,0 +1,23 @@
+[
+  {
+    "id": "592917e5-a87d-4f91-8d78-9e1c80116221",
+    "name": "Element",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "8464d765-2ca8-4176-a900-2c49673c5087",
+    "name": "Impala",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "4a047c9f-831b-448a-85d3-38da3bf552eb",
+    "name": "Sentra",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
